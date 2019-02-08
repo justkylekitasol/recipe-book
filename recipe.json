@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Crock Pot Roast",
+    "ingredients": "<ul>\n<li>1 Beef Roast</li>\n<li>1 Package Brown Gravy Mix</li>\n<li>1 Package Dried Italian Salad Dressing Mix</li>\n<li>1 Package Dry ranch Dressing Mix</li>\n<li>1/2 Water</li>\n</ul>",
+    "steps": "<ol>\n<li>Place beef roast in crock pot.</li>\n<li>Mix the dried mixes together in a bowl and sprinkle over the roast.</li>\n<li>Pour the water around the roast.</li>\n<li>Cook on low for 7-9 hours.</li>\n</ol>",
+    "imageURL": "<img src='https://images.pexels.com/photos/236887/pexels-photo-236887.jpeg?cs=srgb&dl=barbecue-bbq-beef-236887.jpg&fm=jpg'>",
+    "originalURL": "<a href='http://www.food.com/recipe/to-die-for-crock-pot-roast-27208' class='btn btn-success float-right' target='_blank'>Go to site</a>"
+  },
+  {
+    "name": "Roasted Asparagus",
+    "ingredients": "<ul>\n<li>1 lb Asparagus</li>\n<li>1 1/2 tbsp Olive Oil</li>\n<li>1/2 tsp Kosher Salt</li>\n</ul>",
+    "steps": "<ol>\n<li>Preheat oven to 425°F.</li>\n<li>Cut off the woody bottom part of the asparagus spears and discard.</li>\n<li>With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all, and if you eat asparagus you know what I mean by that).</li>\n<li>Place asparagus on foil-lined baking sheet and drizzle with olive oil.</li>\n<li>Sprinkle with salt.</li>\n<li>With your hands, roll the asparagus around until they are evenly coated with oil and salt.</li>\n<li>Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.</li>\n<li>They should be tender when pierced with the tip of a knife.</li>\n<li>The tips of the spears will get very brown but watch them to prevent burning.</li>\n<li>They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal.</li>\n</ol>",
+    "imageURL": "<img src='https://images.pexels.com/photos/361184/asparagus-steak-veal-steak-veal-361184.jpeg?cs=srgb&dl=asparagus-barbecue-cuisine-361184.jpg&fm=jpg'>",
+    "originalURL": "<a href='http://www.food.com/recipe/roasted-asparagus-50847' class='btn btn-success float-right' target='_blank'>Go to site</a>"
+  },
+  {
+    "name": "Curried Lentils and Rice",
+    "ingredients": "<ul>\n<li>1 quart Beef Broth</li>\n<li>1 Cup Dried Green Lentis</li>\n<li>1/2 cup Basmati Rice</li>\n<li>1 tsp Curry Powder</li>\n<li>1 tsp Salt</li>\n</ul>",
+    "steps": "<ol>\n<li>Bring broth to a low boil.</li>\n<li>Add curry powder and salt.</li>\n<li>Cook lentils for 20 minutes.</li>\n<li>Add rice and simmer for 20 minutes.</li>\n<li>Enjoy!</li>\n</ol>",
+    "imageURL": "<img src='https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?cs=srgb&dl=bowl-chicken-close-up-674574.jpg&fm=jpg'>"
+  },
+  {
+    "name": "Big Night Pizza",
+    "ingredients": "<ul>\n<li>5 tsp Yeast</li>\n<li>5 cups Flour</li>\n<li>4 tbsp Vegetable Oil</li>\n<li>2 tbsp sugar</li>\n<li>2 tsp Salt</li>\n<li>2 cups Hot Water</li>\n<li>1/4 Cup Pizza Sauce</li>\n<li>3/4 cup Mozzarella Cheese</li>\n</ul>",
+    "steps": "<ol>\n<li>Add hot water to yeast in a large bowl and let sit for 15 minutes.</li>\n<li>Mix in oil, sugar, salt, and flour and let sit for 1 hour.</li>\n<li>Knead the dough and spread onto a pan.</li>\n<li>Spread pizza sauce and sprinkle cheese.</li>\n<li>Add any optional toppings as you wish.</li>\n<li>Bake at 400 deg Fahrenheit for 15 minutes.</li>\n<li>Enjoy!</li>\n</ol>",
+    "imageURL": "<img src='https://images.pexels.com/photos/2232/vegetables-italian-pizza-restaurant.jpg?cs=srgb&dl=cheese-delicious-dinner-2232.jpg&fm=jpg'>"
+  },
+  {
+    "name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
+    "ingredients": "<ul>\n<li>2 Acorn Squash</li>\n<li>1 Boiling Water</li>\n<li>2 Apples chopped into 1.4 inch pieces</li>\n<li>1/2 cup Dried Cranberries</li>\n<li>1 tsp Cinnamon</li>\n<li>2 tbsp Melted Butter</li>\n</ul>",
+    "steps": "<ol>\n<li>Cut squash in half, remove seeds.</li>\n<li>Place squash in baking dish, cut-side down.</li>\n<li>Pour 1/4-inch water into dish.</li>\n<li>Bake for 30 minutes at 350 degrees F.</li>\n<li>In large bowl, combine remaining ingredients.</li>\n<li>Remove squash from oven, fill with mix.</li>\n<li>Bake for 30-40 more minutes, until squash tender.</li>\n<li>Enjoy!</li>\n</ol>",
+    "imageURL": "<img src='http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg'>"
+  },
+  {
+    "name": "Mic's Yorkshire Puds",
+    "ingredients": "<ul>\n<li>200g Plain Flour</li>\n<li>3 Eggs</li>\n<li>300ml Milk</li>\n<li>3 tbsp Vegetable Oil</li>\n</ul>",
+    "steps": "<ol>\n<li>Put the flour and some seasoning into a large bowl.</li>\n<li>Stir in eggs, one at a time.</li>\n<li>Whisk in milk until you have a smooth batter.</li>\n<li>Chill in the fridge for at least 30 minutes.</li>\n<li>Heat oven to 220C/gas mark 7.</li>\n<li>Pour the oil into the holes of a 8-hole muffin tin.</li>\n<li>Heat tin in the oven for 5 minutes.</li>\n<li>Ladle the batter mix into the tin.</li>\n<li>Bake for 30 minutes until well browned and risen.</li>\n</ol>",
+    "imageURL": "<img src='http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg'>"
+  },
+  {
+    "name": "",
+    "ingredients": "<ul>\n<li></li>\n<li></li>\n<li></li>\n</ul>",
+    "steps": "<ol>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n</ol>",
+    "imageURL": "<img src=''>",
+    "originalURL": "<a href='' class='btn btn-success float-right' target='_blank'>Go to site</a>"
+  },
+  {
+    "name": "",
+    "ingredients": "<ul>\n<li></li>\n<li></li>\n<li></li>\n</ul>",
+    "steps": "<ol>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n</ol>",
+    "imageURL": "<img src=''>",
+    "originalURL": "<a href='' class='btn btn-success float-right' target='_blank'>Go to site</a>"
+  },
+  {
+    "name": "",
+    "ingredients": "<ul>\n<li></li>\n<li></li>\n<li></li>\n</ul>",
+    "steps": "<ol>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n</ol>",
+    "imageURL": "<img src=''>",
+    "originalURL": "<a href='' class='btn btn-success float-right' target='_blank'>Go to site</a>"
+  },
+  {
+    "name": "",
+    "ingredients": "<ul>\n<li></li>\n<li></li>\n<li></li>\n</ul>",
+    "steps": "<ol>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n</ol>",
+    "imageURL": "<img src=''>",
+    "originalURL": "<a href='' class='btn btn-success float-right' target='_blank'>Go to site</a>"
+  }
+]
