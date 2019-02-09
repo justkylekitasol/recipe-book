@@ -32,6 +32,9 @@ body {
   .card {
     max-height: 65vh;
   }
+  .left-side h1 {
+    font-size: 50px !important;
+  }
 }
 .card-image {
   max-height: 60%;
